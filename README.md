@@ -22,7 +22,7 @@ fonksiyon main() {
 TürkçeGo'yu projenizin bulunduğu dizine indirin.
 
 ```bash
-ASKJHDJAKSDHSAJK git clone turkcego JSAGFKJKSHDAKJSHDJKASD
+git clone https://github.com/ecoderat/turkcego.git
 ```
 
 Dosya ismi vererek turkcego.go 'yu çalıştırın.
