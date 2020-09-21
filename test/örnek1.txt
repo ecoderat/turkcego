@@ -1,0 +1,11 @@
+paket main
+
+aktar "fmt"
+
+fonksiyon topla(x sayı, y sayı) sayı {
+	döndür x + y
+}
+
+fonksiyon main() {
+	fmt.Yazdır(topla(42, 13))
+}

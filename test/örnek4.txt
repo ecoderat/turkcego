@@ -1,0 +1,13 @@
+paket main
+
+aktar "fmt"
+
+fonksiyon main() {
+	m := oluştur(dönüştür[yazı]sayı)
+
+	m["Answer"] = 42
+	fmt.Yazdır("The value:", m["Answer"])
+
+	m["Answer"] = 48
+	fmt.Yazdır("The value:", m["Answer"])
+}

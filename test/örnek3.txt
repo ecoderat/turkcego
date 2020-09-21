@@ -1,0 +1,14 @@
+paket main
+
+aktar "fmt"
+
+fonksiyon main() {
+	değişken a [2]yazı
+	a[0] = "Merhaba"
+	a[1] = "Dünya"
+	fmt.Yazdır(a[0], a[1])
+	fmt.Yazdır(a)
+
+	primes := [6]sayı{2, 3, 5, 7, 11, 13}
+	fmt.Yazdır(primes)
+}

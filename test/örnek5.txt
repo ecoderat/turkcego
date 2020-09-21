@@ -1,0 +1,11 @@
+paket main
+
+aktar "fmt"
+
+değişken pow = []int{1, 2, 4, 8, 16, 32, 64, 128}
+
+fonksiyon main() {
+	tekrarla i, v := herbirinde pow {
+		fmt.Yazdırf("2**%d = %d\n", i, v)
+	}
+}
